@@ -1,5 +1,4 @@
-// Write a program which displays employee’s designation by providing empno using callable statement.
-
+// Write a program which displays all the records of employees whose designation is provided by the user using a callable statement.
 
 import java.sql.*;
 import java.util.Scanner;
