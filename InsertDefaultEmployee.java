@@ -1,3 +1,5 @@
+// Write a program which inserts a default record of an employee using a callable statement. (Procedure without parameter)
+
 import java.sql.*;
 
 public class InsertDefaultEmployee {
