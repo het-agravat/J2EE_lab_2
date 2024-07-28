@@ -1,3 +1,5 @@
+// Write a program which inserts a record of an employee using a callable statement.(Procedure with Parameter)
+
 import java.sql.*;
 
 public class InsertEmployee {
