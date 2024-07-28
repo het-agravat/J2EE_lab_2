@@ -1,3 +1,5 @@
+// Write a Program which demonstrates the use of CRUD operation on emp table.
+
 import java.sql.*;
 import java.util.Scanner;
 
