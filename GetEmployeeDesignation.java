@@ -1,3 +1,5 @@
+// Write a program which displays employee’s designation by providing empno using callable statement.
+
 import java.sql.*;
 
 public class GetEmployeeDesignation {
